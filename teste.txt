@@ -1,1 +1,5 @@
-Pagonas Web Dinamicas
+Paginas Web Dinamicas
+git status - Demonstra o estado do projeto
+git add . -> adiciona todos os ficheiros
+git commit -m "MENSAGEM" ->> comenta todods os ficheiros adicionados ou modificados
+git push ||origin||
